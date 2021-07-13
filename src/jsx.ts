@@ -83,5 +83,5 @@ export function jsx(
 }
 
 export namespace jsx {
-  export import JSX = JSXInternal; // eslint-disable-line @typescript-eslint/no-unused-vars
+  // export import JSX = JSXInternal; // eslint-disable-line @typescript-eslint/no-unused-vars
 }
